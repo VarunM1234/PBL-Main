@@ -18,7 +18,7 @@ Both implementations explore the same transportation-management problem but use 
 | Field | Details |
 |---|---|
 | Project Title | SmartRoute: An Intelligent Bus Route Management and Real-Time Tracking System |
-| Team Name | SmartRoute \| Avengers |
+| Team Name | SmartRoute |
 | Team ID | `DSCPP-III-2026-T228` |
 | Institution | Graphic Era (Deemed to be University), Dehradun |
 | Department | Computer Science & Engineering |
