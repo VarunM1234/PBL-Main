@@ -1,0 +1,20 @@
+# email,name,role,company_slug,staff_id,password_demo  (DEMO ONLY: hashed with salt on first start)
+email,name,role,company_slug,staff_id,password_demo
+user@smartroute.in,Demo Passenger,passenger,,,Demo@1234
+vendor@smartroute.in,Orbit Owner,vendor,orbit-express,,Demo@1234
+vendor.rajputana-premium@smartroute.in,Rajputana Premium Owner,vendor,rajputana-premium,,Demo@1234
+vendor.pink-city-express@smartroute.in,Pink City Express Owner,vendor,pink-city-express,,Demo@1234
+vendor.marudhar-tours@smartroute.in,Marudhar Tours Owner,vendor,marudhar-tours,,Demo@1234
+vendor.sharma-volvo-line@smartroute.in,Sharma Volvo Line Owner,vendor,sharma-volvo-line,,Demo@1234
+vendor.himalayan-queen@smartroute.in,Himalayan Queen Owner,vendor,himalayan-queen,,Demo@1234
+vendor.punjab-deluxe@smartroute.in,Punjab Deluxe Owner,vendor,punjab-deluxe,,Demo@1234
+vendor.doon-hills-travels@smartroute.in,Doon Hills Travels Owner,vendor,doon-hills-travels,,Demo@1234
+vendor.coastline-travels@smartroute.in,Coastline Travels Owner,vendor,coastline-travels,,Demo@1234
+vendor.konkan-cruiser@smartroute.in,Konkan Cruiser Owner,vendor,konkan-cruiser,,Demo@1234
+vendor.greenbolt-electric@smartroute.in,GreenBolt Electric Owner,vendor,greenbolt-electric,,Demo@1234
+vendor.kaveri-express@smartroute.in,Kaveri Express Owner,vendor,kaveri-express,,Demo@1234
+vendor.night-star-club@smartroute.in,Night Star Club Owner,vendor,night-star-club,,Demo@1234
+vendor.bay-of-bengal-travels@smartroute.in,Bay of Bengal Travels Owner,vendor,bay-of-bengal-travels,,Demo@1234
+pilot@smartroute.in,Pilot Passenger,passenger,,,Demo@1234
+driver@smartroute.in,Demo Driver (Ravi Kumar),driver,orbit-express,1,Demo@1234
+admin@smartroute.in,Platform Admin,admin,,,Demo@1234

@@ -1,0 +1,17 @@
+# slug,from,to,km,avg_kmh,breaks(name:km:minutes;...),tolls(km;km;...)  SAMPLE DATA
+slug,from,to,km,avg_kmh,breaks,tolls
+delhi-jaipur,Delhi,Jaipur,280,50,Manesar:45:15;Highway Food Mall:140:25,30;105
+delhi-dehradun,Delhi,Dehradun,250,42,Khatauli:105:20,45;180
+delhi-chandigarh,Delhi,Chandigarh,250,50,Murthal:50:20;Karnal:125:15,85;190
+delhi-agra,Delhi,Agra,230,60,Expressway Food Court:120:20,50;200
+delhi-amritsar,Delhi,Amritsar,465,50,Karnal:125:20;Ludhiana:315:25;Beas:420:15,85;200;380
+delhi-shimla,Delhi,Shimla,350,40,Karnal:125:15;Parwanoo:270:20;Kandaghat:310:15,85;190;265
+jaipur-udaipur,Jaipur,Udaipur,395,55,Kishangarh:105:20;Gulabpura:245:20,60;170;300
+mumbai-pune,Mumbai,Pune,150,55,Khopoli:70:20,35;115
+mumbai-goa,Mumbai,Goa,590,45,Mahad:165:20;Chiplun:250:20;Kudal:460:25,60;200;330
+bengaluru-chennai,Bengaluru,Chennai,345,55,Mulbagal:100:15;Vellore:230:20,40;150;280
+bengaluru-mysuru,Bengaluru,Mysuru,145,55,Maddur:80:15,30;115
+chennai-madurai,Chennai,Madurai,460,55,Tindivanam:120:15;Trichy:330:25,60;190;400
+hyderabad-vijayawada,Hyderabad,Vijayawada,275,60,Suryapet:140:20;Nandigama:235:15,45;100;190
+ahmedabad-udaipur,Ahmedabad,Udaipur,260,50,Shamlaji:130:20,50;190
+kolkata-digha,Kolkata,Digha,185,45,Rupnarayan River:55:15;Contai:145:20,30;100;160

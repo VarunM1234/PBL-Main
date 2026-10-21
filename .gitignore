@@ -1,0 +1,12 @@
+# build output
+build/
+bin/
+build-debug/
+bin-debug/
+*.o
+*.d
+*.exe
+# runtime save files (created on first run)
+data/save/*
+!data/save/.gitkeep
+route.geojson

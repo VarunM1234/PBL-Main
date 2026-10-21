@@ -1,0 +1,14 @@
+{
+  "name": "smartroute",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SmartRoute bus booking + live tracking. The app itself is pure C17 + C++17 (hand-written data structures) with one embedded HTML page and NO npm dependencies - this file only exists so 'npm install' then 'npm run dev' works as a launcher, forwarding to run-web.cmd / the Makefile.",
+  "scripts": {
+    "install": "node -e \"console.log('SmartRoute needs no packages. Next: npm run dev  (builds with make if needed and opens http://localhost:8080)')\"",
+    "dev": "run-web.cmd",
+    "dev:port": "run-web.cmd",
+    "start": "bin\\smartroute.exe --serve 8080 --open",
+    "build": "run-web-build.cmd",
+    "test": "run-web-test.cmd"
+  }
+}

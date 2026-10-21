@@ -1,0 +1,22 @@
+# id,name,state,lat,lng  (approximate city-centre coordinates, SAMPLE DATA)
+id,name,state,lat,lng
+1,Delhi,Delhi,28.6139,77.2090
+2,Jaipur,Rajasthan,26.9124,75.7873
+3,Dehradun,Uttarakhand,30.3165,78.0322
+4,Chandigarh,Chandigarh,30.7333,76.7794
+5,Agra,Uttar Pradesh,27.1767,78.0081
+6,Amritsar,Punjab,31.6340,74.8723
+7,Shimla,Himachal Pradesh,31.1048,77.1734
+8,Udaipur,Rajasthan,24.5854,73.7125
+9,Mumbai,Maharashtra,19.0760,72.8777
+10,Pune,Maharashtra,18.5204,73.8567
+11,Goa,Goa,15.4909,73.8278
+12,Bengaluru,Karnataka,12.9716,77.5946
+13,Chennai,Tamil Nadu,13.0827,80.2707
+14,Mysuru,Karnataka,12.2958,76.6394
+15,Madurai,Tamil Nadu,9.9252,78.1198
+16,Hyderabad,Telangana,17.3850,78.4867
+17,Vijayawada,Andhra Pradesh,16.5062,80.6480
+18,Ahmedabad,Gujarat,23.0225,72.5714
+19,Kolkata,West Bengal,22.5726,88.3639
+20,Digha,West Bengal,21.6275,87.5093

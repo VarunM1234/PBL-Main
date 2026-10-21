@@ -1,0 +1,22 @@
+# city,name1,name2  (two boarding/dropping points per city, SAMPLE DATA)
+city,name1,name2
+Delhi,Kashmere Gate ISBT,Anand Vihar ISBT
+Jaipur,Sindhi Camp Bus Stand,Narayan Singh Circle
+Dehradun,ISBT Dehradun,Clock Tower
+Chandigarh,Sector 17 ISBT,Sector 43 ISBT
+Agra,Idgah Bus Stand,Sanjay Place
+Amritsar,Amritsar Main Bus Stand,Golden Gate Pickup (sample)
+Shimla,ISBT Shimla,Victory Tunnel Pickup (sample)
+Udaipur,Udaipur Roadways Bus Stand,Chetak Circle
+Mumbai,Borivali,Dadar
+Pune,Swargate,Shivajinagar
+Goa,Panaji Kadamba,Mapusa Bus Stand
+Bengaluru,Majestic (Kempegowda Bus Station),Silk Board
+Chennai,CMBT Koyambedu,Guindy
+Mysuru,Mysuru Suburban Bus Stand,Mysuru City Pickup (sample)
+Madurai,Mattuthavani Bus Stand,Periyar Bus Stand
+Hyderabad,MGBS Imlibun,Lakdi-ka-pul Pickup (sample)
+Vijayawada,PNBS Bus Station,Benz Circle
+Ahmedabad,Geeta Mandir,Paldi
+Kolkata,Esplanade Bus Terminus,Karunamoyee
+Digha,Digha Bus Stand,Old Digha Pickup (sample)

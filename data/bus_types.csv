@@ -1,0 +1,10 @@
+# code,label,rate_paise_per_km,capacity,layout,rows,amenities  (SAMPLE DATA, "-style" names only)
+code,label,rate_paise_per_km,capacity,layout,rows,amenities
+BUDGET_SEATER,Budget Seater,140,40,SEATER_2P2,10,Charging point;Water bottle
+NONAC_SLEEPER,Non-AC Sleeper,160,30,SLEEPER,5,Blanket;Charging point;Reading light
+SEMI_SLEEPER,Semi-Sleeper,180,36,SEATER_2P2,9,Reclining seats;Charging point;Water bottle
+AC_SLEEPER,AC Sleeper,220,30,SLEEPER,5,AC;Blanket;Charging point;Reading light;CCTV
+ELECTRIC,Electric AC,240,36,SEATER_2P2,9,AC;Zero-emission;Charging point;CCTV
+VOLVO_PREMIUM,Volvo-style Premium,260,40,SEATER_2P2,10,AC;Reclining seats;Charging point;Water bottle;CCTV
+SCANIA_MULTIAXLE,Scania-style Multi-Axle,280,48,SEATER_2P2,12,AC;Reclining seats;Charging point;Water bottle;CCTV
+MERCEDES_LUXURY,Mercedes-style Luxury,300,30,SEATER_2P1,10,AC;Recliner seats;Charging point;Snack box;CCTV
